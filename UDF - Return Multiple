@@ -1,0 +1,13 @@
+# Return Multiple
+def doSum(a,b):
+    ans = a+b
+    return ans
+
+def doSub(a,b):
+   ans = a-b
+   return ans
+sum1 = doSum(20,10)
+print("sum is",sum1)
+sub1 = doSub(20,10)
+print("sub is",sub1)
+
